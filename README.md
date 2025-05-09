@@ -1,5 +1,5 @@
 ![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;ML+for+Hardware+%F0%9F%92%98;Open+Source+Contributor)](https://git.io/typing-svg)
 
 
 <img align="right" alt="coding" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" width="300" />
@@ -36,7 +36,7 @@ I actively contribute to the growing field of hardware-ML integration, working t
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/YDW8TrsTmu1vZp8aCUh6aS1vGZjyaTsbcMic3eYXIN4/rs:fit:444:250:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZ2Z5Y2F0LmNv/bS9NaW5pYXR1cmVE/ZXBlbmRlbnRDb2It/bWF4LTFtYi5naWY.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
