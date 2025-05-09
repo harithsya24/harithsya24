@@ -1,6 +1,6 @@
 ![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;ML+for+Hardware+%F0%9F%92%98;Open+Source+Contributor)](https://git.io/typing-svg)
+(https://git.io/typing-svg)
 
 <img align="right" alt="coding" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" width="300" />
 
