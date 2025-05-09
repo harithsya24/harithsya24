@@ -62,25 +62,6 @@ I actively contribute to the growing field of hardware-ML integration, working t
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
-### Projects and Dev Stuff:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amruthaKR&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruthaKR&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amruthaKR&hide_border=true" />
-</details>
-
-<div align="center"> 
-<i>Random dev joke for you!</i></br></br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
-</div>
 
 ###  Watch my Contribution Graph get eaten by the snake 🐍
 ![snake gif](https://github.com/amruthaKR/amruthaKR/blob/output/github-contribution-grid-snake.gif)
