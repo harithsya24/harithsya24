@@ -1,9 +1,6 @@
 ![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;ML+for+Hardware+%F0%9F%92%98;Open+Source+Contributor)](https://git.io/typing-svg)
 
-
-<img align="right" alt="coding" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" width="300" />
-
 ## Hi 👋, I'm [Amrutha Kanakatte Ravishankar!](https://harithsya24.github.io/profile/) and you've reached my Dev space on the WWW :) 
 
 <h3 align="center">Passionate about Machine Learning for Hardware, transforming data into meaningful solutions for hardware applications</h3>
@@ -27,16 +24,11 @@ I actively contribute to the growing field of hardware-ML integration, working t
 ![](https://count.getloli.com/get/@amruthaKR.github.readme)
 </br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthaKR" alt="amruthaKR" /></a> </p>
 
 <div align="center">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,10 +54,5 @@ I actively contribute to the growing field of hardware-ML integration, working t
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
-
-###  Watch my Contribution Graph get eaten by the snake 🐍
+### Watch my Contribution Graph get eaten by the snake 🐍  
 ![snake gif](https://github.com/amruthaKR/amruthaKR/blob/output/github-contribution-grid-snake.gif)
-
-</br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
