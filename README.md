@@ -54,5 +54,3 @@ I actively contribute to the growing field of hardware-ML integration, working t
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
-### Watch my Contribution Graph get eaten by the snake 🐍  
-![snake gif](https://github.com/amruthaKR/amruthaKR/blob/output/github-contribution-grid-snake.gif)
