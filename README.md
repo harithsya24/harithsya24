@@ -1,23 +1,23 @@
 ![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 
-(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;ML+for+Hardware+%F0%9F%92%98;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" width="300" />
 
 ## Hi 👋, I'm [Amrutha Kanakatte Ravishankar!](https://harithsya24.github.io/profile/) and you've reached my Dev space on the WWW :) 
 
-<h3 align="center">Passionate about Machine Learning, transforming data into meaningful solutions for hardware applications</h3>
+<h3 align="center">Passionate about Machine Learning for Hardware, transforming data into meaningful solutions for hardware applications</h3>
 
 ### Glad to see you here!
 
-- 🔭 I'm currently working on ML/AI projects withapplicatio ns
+- 🔭 I'm currently working on ML/AI projects with hardware applications
 - 🌱 I'm currently learning Machine Learning for Hardware
-- 💬 Ask me about Machine Learning,AI and ML-Hardware Integration
+- 💬 Ask me about Machine Learning, Hardware Design, and ML-Hardware Integration
 
 <p>
-Passionate Machine Learning engineer with a focus on real-time applications. My research centers on optimizing machine learning algorithms for real world implementation, exploring the intersection of AI and specialized hardware like FPGAs and ASICs.
+Passionate Machine Learning engineer with a focus on hardware applications. My research centers on optimizing machine learning algorithms for hardware implementation, exploring the intersection of AI and specialized hardware like FPGAs and ASICs.
 
-With expertise in ML model optimization,  training, and quantization techniques, I specialize in creating efficient ML solutions for resource-constrained environments. I'm particularly interested in developing accelerators for neural networks and implementing efficient inference systems.
+With expertise in ML model optimization, hardware-aware training, and quantization techniques, I specialize in creating efficient ML solutions for resource-constrained environments. I'm particularly interested in developing accelerators for neural networks and implementing efficient inference systems.
 
 I actively contribute to the growing field of hardware-ML integration, working to bridge the gap between theoretical machine learning concepts and practical hardware implementations. My goal is to advance the field by creating more efficient, powerful, and accessible ML hardware solutions.
 </p>
