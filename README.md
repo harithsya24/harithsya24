@@ -1,5 +1,5 @@
 ![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;ML+for+Hardware+%F0%9F%92%98;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Interested+in_Machine+Learning +and+Artificial+Intelligence+%F0%9F%92%98;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ## Hi 👋, I'm [Amrutha Kanakatte Ravishankar!](https://harithsya24.github.io/profile/) and you've reached my Dev space on the WWW :) 
 
